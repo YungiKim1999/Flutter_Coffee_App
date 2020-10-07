@@ -1,4 +1,4 @@
-# ninjabrewcrew
+# Flutter Coffee APP
 
 A new Flutter application.
 
